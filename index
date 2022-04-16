@@ -52,35 +52,13 @@
     <div class="header_wrapper">
         <h1>
 	
-            <font size="1"> ~ </font><a href="https://akimoto-shuuiti.github.io/rikagakuburogu/">旧理科学部</a>&emsp;<a href="https://ff15borm.github.io/blog.github.io/">ブログ</a>&emsp;<a href="https://scratch.mit.edu/users/moti-rai/">管理人scratch</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSc_3GZ3an79T4xbBgkVnF6wK8rCgoy_Zx8o_dMcWY_r2O99rg/viewform?usp=sf_link">報告</a>
+            <font size="1"> ~ </font><a href="https://akimoto-shuuiti.github.io/rikagakuburogu/">旧理科学部</a>&emsp;<a href="https://ff15borm.github.io/blog.github.io/">ブログ</a>&emsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSc_3GZ3an79T4xbBgkVnF6wK8rCgoy_Zx8o_dMcWY_r2O99rg/viewform?usp=sf_link">報告</a>
             <span><br></span><font size="3"> ~ </font>
         </h1>
     </div>
 </header>
 <!-- ナビゲーション -->
 <nav class="gnav">
-    <ul class="gnav_wrapper">
-        <li><a href="#">ホーム</a></li>
-        <li><a href="#">メニュー1</a></li>
-        <li><a href="#">メニュー2</a></li>
-        <li><a href="#">メニュー3</a></li>
-        <li><a href="#">メニュー4</a></li>
-        <li><a href="#">メニュー5</a></li>
-        <li><a href="#">メニュー6</a></li>
-    </ul>
-</nav> 
-<title>練習</title>
-<meta name="description" content="　">
-<link rel="stylesheet" href="css/sample.css">
-</head>
-<nav>
-<ul class="gnav-navi-1">
-<li><a href="#">TOP<br>トップ</a></li>
-<li><a href="#">SERVICE<br>サービスについて</a></li>
-<li><a href="#">INFORMATION<br>お知らせ</a></li>
-<li><a href="#">BLOG<br>ブログ</a></li>
-<li><a href="#">CONTACT<br>お問合せ</a></li>
-</ul>
 </nav>   
 <nav>
 		    <header>
@@ -145,3 +123,4 @@ width="800" height="250">
         <p>ここにコンテンツが入ります。</p>
     <!--/.content--></div>
 <!--/.w1000--></div>
+      <iframe src="https://scratch.mit.edu/projects/26999060/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
